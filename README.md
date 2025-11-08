@@ -5,3 +5,4 @@
 - Access to cognitor is granted to only authorized users.
 - Technologies used - React.js, Azure AI, Azure PAAS, Azure AD, python.
 - The solution is in development phase and this document will be updated with progress.
+- Testing changes.
